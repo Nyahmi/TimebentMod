@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "ulterra:ancientcobblestoneslab"
+    },
+    "half=top,variant=default": {
+      "model": "ulterra:ancientcobblestoneslab_top"
+    }
+  }
+}

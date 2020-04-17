@@ -2,6 +2,30 @@
   "variants": {
     "normal": {
       "model": "ulterra:ancientstonepillar"
+    },
+    "facing=south": {
+      "model": "ulterra:ancientstonepillar"
+    },
+    "facing=north": {
+      "model": "ulterra:ancientstonepillar"
+    },
+    "facing=east": {
+      "model": "ulterra:ancientstonepillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "ulterra:ancientstonepillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "ulterra:ancientstonepillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "ulterra:ancientstonepillar",
+      "x": 90,
+      "y": 90
     }
   }
 }

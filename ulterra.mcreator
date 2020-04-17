@@ -144,6 +144,38 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "AncientCobblestoneStairs",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientCobblestoneSlab",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientStoneBricksStairs",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientStoneBricksSlab",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -159,15 +191,19 @@
       "item.gravitechunks.name": "Gravite Chunks",
       "tile.logancient.name": "Ancient Log",
       "tile.stoneancientgrass.name": "Ancient Grass",
+      "tile.ancientstonebricksslab.name": "Ancient Stone Bricks",
       "tile.ancientstonepillar.name": "Ancient Stone Pillar",
       "tile.graviteore.name": "Gravite Ore",
+      "tile.ancientcobblestonestairs.name": "Ancient Cobblestone Stairs",
       "tile.stoneancient.name": "Ancient Stone",
       "tile.ancientdirt.name": "Ancient Dirt",
       "tile.leavesancient.name": "Ancient Leaves",
       "tile.ancientstonebricks.name": "Ancient Stone Bricks",
+      "tile.ancientcobblestoneslab.name": "Ancient Cobblestone",
       "tile.ancientchiseledstonebricks.name": "Ancient Chiseled Stone Bricks",
       "tile.primordialore.name": "Primordial Ore",
-      "tile.ancientstone.name": "Ancient Stone"
+      "tile.ancientstone.name": "Ancient Stone",
+      "tile.ancientstonebricksstairs.name": "Ancient Stone Bricks"
     }
   },
   "workspaceSettings": {

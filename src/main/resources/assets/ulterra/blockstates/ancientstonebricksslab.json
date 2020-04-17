@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "ulterra:ancientstonebricksslab"
+    },
+    "half=top,variant=default": {
+      "model": "ulterra:ancientstonebricksslab_top"
+    }
+  }
+}

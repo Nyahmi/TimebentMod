@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "ulterra:ancientstonebricksslab_double"
+    }
+  }
+}

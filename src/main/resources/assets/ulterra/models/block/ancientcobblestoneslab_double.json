@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ulterra:blocks/ancient_cobblestone",
+    "particle": "ulterra:blocks/ancient_cobblestone"
+  }
+}
