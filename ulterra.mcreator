@@ -104,6 +104,46 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "AncientStone",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientCobblestone",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientStoneBricks",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientChiseledStoneBricks",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientStonePillar",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -113,16 +153,21 @@
       "tile.inferniteore.name": "Infernite Ore",
       "item.primordialdust.name": "Primordial Dust",
       "tile.aeroiteore.name": "Aeroite Ore",
+      "tile.ancientcobblestone.name": "Ancient Cobblestone",
       "item.aeroitedust.name": "Aeroite Dust",
       "tile.ancientplanks.name": "Ancient Planks",
       "item.gravitechunks.name": "Gravite Chunks",
       "tile.logancient.name": "Ancient Log",
       "tile.stoneancientgrass.name": "Ancient Grass",
+      "tile.ancientstonepillar.name": "Ancient Stone Pillar",
       "tile.graviteore.name": "Gravite Ore",
       "tile.stoneancient.name": "Ancient Stone",
       "tile.ancientdirt.name": "Ancient Dirt",
       "tile.leavesancient.name": "Ancient Leaves",
-      "tile.primordialore.name": "Primordial Ore"
+      "tile.ancientstonebricks.name": "Ancient Stone Bricks",
+      "tile.ancientchiseledstonebricks.name": "Ancient Chiseled Stone Bricks",
+      "tile.primordialore.name": "Primordial Ore",
+      "tile.ancientstone.name": "Ancient Stone"
     }
   },
   "workspaceSettings": {

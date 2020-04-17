@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ulterra:blocks/ancient_cobblestone",
+    "up": "ulterra:blocks/ancient_cobblestone",
+    "north": "ulterra:blocks/ancient_cobblestone",
+    "east": "ulterra:blocks/ancient_cobblestone",
+    "south": "ulterra:blocks/ancient_cobblestone",
+    "west": "ulterra:blocks/ancient_cobblestone",
+    "particle": "ulterra:blocks/ancient_cobblestone"
+  }
+}
