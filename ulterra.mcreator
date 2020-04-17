@@ -6,7 +6,7 @@
       "type": "block",
       "sortid": 1,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {}
     },
     {
@@ -96,6 +96,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "StoneAncient",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -111,6 +119,7 @@
       "tile.logancient.name": "Ancient Log",
       "tile.stoneancientgrass.name": "Ancient Grass",
       "tile.graviteore.name": "Gravite Ore",
+      "tile.stoneancient.name": "Ancient Stone",
       "tile.ancientdirt.name": "Ancient Dirt",
       "tile.leavesancient.name": "Ancient Leaves",
       "tile.primordialore.name": "Primordial Ore"
