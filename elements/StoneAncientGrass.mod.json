@@ -2,7 +2,7 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "stone",
+    "texture": "ancient_stone",
     "textureTop": "ancient_grass_top",
     "textureLeft": "ancient_grass_side",
     "textureFront": "ancient_grass_side",
