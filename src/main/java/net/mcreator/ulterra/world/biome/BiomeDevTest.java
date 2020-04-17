@@ -40,10 +40,10 @@ public class BiomeDevTest extends ElementsUlterra.ModElement {
 	}
 	static class BiomeGenCustom extends Biome {
 		public BiomeGenCustom() {
-			super(new Biome.BiomeProperties("Dev Test").setRainfall(0F).setBaseHeight(0F).setWaterColor(-13677168).setHeightVariation(0F)
+			super(new Biome.BiomeProperties("Dev Test").setRainfall(0F).setBaseHeight(2F).setWaterColor(-9988353).setHeightVariation(1F)
 					.setTemperature(1F));
 			setRegistryName("devtest");
-			topBlock = BlockAncientCobblestone.block.getDefaultState();
+			topBlock = BlockAncientStone.block.getDefaultState();
 			fillerBlock = BlockAncientStone.block.getDefaultState();
 			decorator.generateFalls = true;
 			decorator.treesPerChunk = 10;
@@ -77,7 +77,7 @@ public class BiomeDevTest extends ElementsUlterra.ModElement {
 		@SideOnly(Side.CLIENT)
 		@Override
 		public int getSkyColorByTemp(float currentTemperature) {
-			return -16777216;
+			return -13421773;
 		}
 
 		@Override
@@ -119,9 +119,9 @@ public class BiomeDevTest extends ElementsUlterra.ModElement {
 				} else {
 					Block ground = world.getBlockState(position.add(0, -1, 0)).getBlock();
 					Block ground2 = world.getBlockState(position.add(0, -2, 0)).getBlock();
-					if (!((ground == BlockAncientCobblestone.block.getDefaultState().getBlock()
+					if (!((ground == BlockAncientStone.block.getDefaultState().getBlock()
 							|| ground == BlockAncientStone.block.getDefaultState().getBlock())
-							&& (ground2 == BlockAncientCobblestone.block.getDefaultState().getBlock()
+							&& (ground2 == BlockAncientStone.block.getDefaultState().getBlock()
 									|| ground2 == BlockAncientStone.block.getDefaultState().getBlock())))
 						return false;
 					IBlockState state = world.getBlockState(position.down());
@@ -188,7 +188,7 @@ public class BiomeDevTest extends ElementsUlterra.ModElement {
 		protected boolean canGrowInto(Block blockType) {
 			return blockType.getDefaultState().getMaterial() == Material.AIR
 					|| blockType == BlockAncientCobblestone.block.getDefaultState().getBlock() || blockType == Blocks.AIR.getDefaultState().getBlock()
-					|| blockType == BlockAncientCobblestone.block.getDefaultState().getBlock()
+					|| blockType == BlockAncientStone.block.getDefaultState().getBlock()
 					|| blockType == BlockAncientStone.block.getDefaultState().getBlock();
 		}
 

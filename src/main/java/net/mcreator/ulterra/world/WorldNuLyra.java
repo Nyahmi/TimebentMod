@@ -158,21 +158,12 @@ public class WorldNuLyra extends ElementsUlterra.ModElement {
 		@SideOnly(Side.CLIENT)
 		@Override
 		public boolean doesXZShowFog(int par1, int par2) {
-			return true;
+			return false;
 		}
 
 		@Override
 		public WorldSleepResult canSleepAt(EntityPlayer player, BlockPos pos) {
 			return WorldSleepResult.ALLOW;
-		}
-
-		@Override
-		protected void generateLightBrightnessTable() {
-			float f = 0.5f;
-			for (int i = 0; i <= 15; ++i) {
-				float f1 = 1 - (float) i / 15f;
-				this.lightBrightnessTable[i] = (1 - f1) / (f1 * 3 + 1) * (1 - f) + f;
-			}
 		}
 
 		@Override

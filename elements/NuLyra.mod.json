@@ -32,7 +32,7 @@
       "value": "CUSTOM:AncientStone"
     },
     "tertiaryFillerBlock": {
-      "value": ""
+      "value": "CUSTOM:AncientCobblestone"
     },
     "fluidBlock": {
       "value": "CUSTOM:AncientCobblestone"
@@ -42,9 +42,9 @@
       "falpha": 0.0
     },
     "canRespawnHere": false,
-    "hasFog": true,
+    "hasFog": false,
     "hasWeather": false,
-    "isDark": false,
+    "isDark": true,
     "doesWaterVaporize": false,
     "sleepResult": "ALLOW",
     "hasSkyLight": false,

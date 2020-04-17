@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ulterra:blocks/gloomflower",
+    "particle": "ulterra:blocks/gloomflower"
+  }
+}
