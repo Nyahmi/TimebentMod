@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:AncientCobblestone"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "radio",
+    "portalTexture": "ancient_log",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:DevTest"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:AncientStone"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:AncientStone"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:AncientCobblestone"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

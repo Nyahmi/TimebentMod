@@ -1,5 +1,7 @@
 {
-  "id_map": {},
+  "id_map": {
+    "DIMENSION": 1
+  },
   "mod_elements": [
     {
       "name": "StoneAncientGrass",
@@ -192,6 +194,24 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "NuLyra",
+      "type": "dimension",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "DevTest",
+      "type": "biome",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -200,12 +220,13 @@
     "en_us": {
       "tile.inferniteore.name": "Infernite Ore",
       "tile.ancientcobblestone.name": "Ancient Cobblestone",
-      "tile.ancientplanksslab.name": "Ancient Planks",
+      "tile.ancientplanksslab.name": "Ancient Planks Slab",
       "item.aeroitedust.name": "Aeroite Dust",
       "tile.ancientstonebricksslab.name": "Ancient Stone Bricks",
       "tile.ancientstonebricks.name": "Ancient Stone Bricks",
-      "tile.ancientstone.name": "Ancient Stone",
+      "item.nulyra.name": "Portal Igniter",
       "tile.ancientstonebricksstairs.name": "Ancient Stone Bricks",
+      "tile.ancientstone.name": "Ancient Stone",
       "item.primordialdust.name": "Primordial Dust",
       "tile.aeroiteore.name": "Aeroite Ore",
       "tile.ancientplanks.name": "Ancient Planks",
@@ -219,7 +240,7 @@
       "tile.ancientdirt.name": "Ancient Dirt",
       "tile.leavesancient.name": "Ancient Leaves",
       "tile.ancientcobblestoneslab.name": "Ancient Cobblestone",
-      "tile.ancientplanksstairs.name": "Ancient Planks",
+      "tile.ancientplanksstairs.name": "Ancient Planks Stair",
       "tile.ancientchiseledstonebricks.name": "Ancient Chiseled Stone Bricks",
       "tile.primordialore.name": "Primordial Ore"
     }
