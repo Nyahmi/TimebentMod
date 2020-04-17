@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_side",
+  "textures": {
+    "wall": "ulterra:blocks/ancient_stone_bricks",
+    "particle": "ulterra:blocks/ancient_stone_bricks"
+  }
+}

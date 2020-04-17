@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "ulterra:blocks/amcient_planks",
+    "particle": "ulterra:blocks/amcient_planks"
+  }
+}
