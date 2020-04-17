@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ulterra:blocks/polished_ancient_stone",
+    "up": "ulterra:blocks/polished_ancient_stone",
+    "north": "ulterra:blocks/polished_ancient_stone",
+    "east": "ulterra:blocks/polished_ancient_stone",
+    "south": "ulterra:blocks/polished_ancient_stone",
+    "west": "ulterra:blocks/polished_ancient_stone",
+    "particle": "ulterra:blocks/polished_ancient_stone"
+  }
+}

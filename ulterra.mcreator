@@ -212,6 +212,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "PolishedAncientStone",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -225,6 +233,7 @@
       "tile.ancientstonebricksslab.name": "Ancient Stone Bricks",
       "tile.ancientstonebricks.name": "Ancient Stone Bricks",
       "item.nulyra.name": "Portal Igniter",
+      "tile.polishedancientstone.name": "Polished Ancient Stone",
       "tile.ancientstonebricksstairs.name": "Ancient Stone Bricks",
       "tile.ancientstone.name": "Ancient Stone",
       "item.primordialdust.name": "Primordial Dust",
