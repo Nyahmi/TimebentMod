@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ulterra:blocks/ancient_log_top",
+    "up": "ulterra:blocks/ancient_log_top",
+    "north": "ulterra:blocks/ancient_log",
+    "east": "ulterra:blocks/ancient_log",
+    "south": "ulterra:blocks/ancient_log",
+    "west": "ulterra:blocks/ancient_log",
+    "particle": "ulterra:blocks/ancient_log_top"
+  }
+}

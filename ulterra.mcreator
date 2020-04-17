@@ -1,0 +1,136 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StoneAncientGrass",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {}
+    },
+    {
+      "name": "LeavesAncient",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LogAncient",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientDirt",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AncientPlanks",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PrimordialOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PrimordialDust",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GraviteOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AeroiteOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GraviteChunks",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AeroiteDust",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InferniteOre",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.inferniteore.name": "Infernite Ore",
+      "item.primordialdust.name": "Primordial Dust",
+      "tile.aeroiteore.name": "Aeroite Ore",
+      "item.aeroitedust.name": "Aeroite Dust",
+      "tile.ancientplanks.name": "Ancient Planks",
+      "item.gravitechunks.name": "Gravite Chunks",
+      "tile.logancient.name": "Ancient Log",
+      "tile.stoneancientgrass.name": "Ancient Grass",
+      "tile.graviteore.name": "Gravite Ore",
+      "tile.ancientdirt.name": "Ancient Dirt",
+      "tile.leavesancient.name": "Ancient Leaves",
+      "tile.primordialore.name": "Primordial Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "ulterra",
+    "modName": "Ulterra",
+    "version": "1.0.0",
+    "author": "Beta_Nara_Softworks, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.ulterra",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}

@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "ulterra:logancient"
+    },
+    "facing=south": {
+      "model": "ulterra:logancient"
+    },
+    "facing=north": {
+      "model": "ulterra:logancient"
+    },
+    "facing=east": {
+      "model": "ulterra:logancient",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "ulterra:logancient",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "ulterra:logancient",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "ulterra:logancient",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
