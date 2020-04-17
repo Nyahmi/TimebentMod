@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ulterra:blocks/amcient_planks",
+    "particle": "ulterra:blocks/amcient_planks"
+  }
+}

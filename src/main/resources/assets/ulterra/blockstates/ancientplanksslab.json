@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "ulterra:ancientplanksslab"
+    },
+    "half=top,variant=default": {
+      "model": "ulterra:ancientplanksslab_top"
+    }
+  }
+}
